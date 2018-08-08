@@ -30,14 +30,37 @@ This repository consists of all files used during the projects. Details of what 
 
 Some examples are shown below :
 
-* Example 1: Original image (Left), x2 Image (Center), x4 Image (Right)
+* **Example 1:** &nbsp; Original image (Left), &nbsp;&nbsp;&nbsp;&nbsp; x2 Image (Center), &nbsp;&nbsp;&nbsp;&nbsp; x4 Image (Right)
 <p align="center">
   <img src="./SR_sample_images/im_19.bmp" alt="child original image" align="left" width="200" height="200">
   <img src="./SR_sample_images/saved_images/child_x2.png" alt="child x2 image" align="center" width="250" height="250">
   <img src="./SR_sample_images/saved_images/child_x4.png" alt="child x4 image" align="right" width="300" height="300">
-</p>
+</p>  
 
+<br/>
+<br/>
 
+* **Example 2:** &nbsp; Original image (Left), &nbsp;&nbsp;&nbsp;&nbsp; x2 Image (Center), &nbsp;&nbsp;&nbsp;&nbsp; x4 Image (Right)
+<p align="center">
+  <img src="./SR_sample_images/im_59.bmp" alt="bird original image" align="left" width="200" height="200">
+  <img src="./SR_sample_images/saved_images/bird_x2.png" alt="bird x2 image" align="center" width="250" height="250">
+  <img src="./SR_sample_images/saved_images/bird_x4.png" alt="bird x4 image" align="right" width="300" height="300">
+</p>  
+
+<br/>
+<br/>
+
+* **Example 3:** &nbsp; Original image (Left), &nbsp;&nbsp;&nbsp;&nbsp; x2 Image (Center), &nbsp;&nbsp;&nbsp;&nbsp; x4 Image (Right)
+<p align="center">
+  <img src="./SR_sample_images/im_72.bmp" alt="pencils original image" align="left" width="200" height="200">
+  <img src="./SR_sample_images/saved_images/pencil_x2.png" alt="pencils x2 image" align="center" width="250" height="250">
+  <img src="./SR_sample_images/saved_images/pencil_x4.png" alt="pencils x4 image" align="right" width="300" height="300">
+</p>  
+
+<br/>
+<br/>
+
+* **NOTE :** The size of images shown above are not actual, they are resized to fit document. See [SR_sample_images](./SR_sample_images) for the above images in actual size.
 
 ## License
 
