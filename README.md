@@ -26,8 +26,8 @@ This repository consists of all files used during the projects. Details of what 
 ### Running the GUI
 
 * Clone the repository.
-* Install the requirements.
-* Run the [sr_gui_browse.py](./sr_gui_browse.py) file.
+* Install the dependencies from [requirements.txt](./requirements.txt).
+* Run [sr_gui_browse.py](./sr_gui_browse.py) file.
 
 ## Examples
 
