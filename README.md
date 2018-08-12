@@ -1,6 +1,6 @@
 # Single Image Super Resolution (with GUI)
 
-Image super resolution refers to the task of estimating a high-resolution image from its lower resolution version. In a more simple sense it requires us to generate pixel values for interpolating the given low resolution image to make it large. In this project I employ a deep learning approach to super resolve images to double or quadruple the original image. I used Keras with Tensorflow backend to implement the model in Python 3. The model I used is fairly simple and conists of layers of Convolutional and Deconvolutional with skip connections. A Mean Squared Error (MSE) loss is used to guide our model. I also designed a GUI with the model to make it to be used easily.
+Image super resolution refers to the task of estimating a high-resolution image from its lower resolution version. In a more simple sense it requires us to generate pixel values for interpolating the given low resolution image to make it large. In this project I employ a deep learning approach to super resolve images to double or quadruple the original image. I used __Keras__ with _Tensorflow_ backend to implement the model in __Python 3__. The model I used is fairly simple and conists of layers of Convolutional and Deconvolutional with skip connections. A _Mean Squared Error (MSE)_ loss is used to guide our model. I also designed a __GUI__ with the model to make it to be used easily.
 
 <p align="center">
   <img src="screenshots/SR_example.jpg" alt="Super Resolution Example"
@@ -23,8 +23,11 @@ quadruple the original input image. It also comes with an option of saving the S
 
 This repository consists of all files used during the projects. Details of what each file does is given in the [Readme.docx](./Readme.docx) file. And even the code files are commented wherever necessary.
 
-### Installing
+### Running the GUI
 
+* Clone the repository.
+* Install the requirements.
+* Run the [sr_gui_browse.py](./sr_gui_browse.py) file.
 
 ## Examples
 
