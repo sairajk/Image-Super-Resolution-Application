@@ -167,7 +167,7 @@ pbr==4.2.0
 pefile==2017.11.5
 pep8==1.7.0
 pickleshare==0.7.4
-Pillow==5.1.0
+Pillow==6.2.0
 pkginfo==1.4.1
 ply==3.8
 progress==1.3
