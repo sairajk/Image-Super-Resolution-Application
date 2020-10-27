@@ -37,7 +37,7 @@ conda==4.5.4
 conda-verify==2.0.0
 contextlib2==0.5.5
 coverage==4.5.1
-cryptography==2.1.4
+cryptography==3.2
 cx-Freeze==5.1.1
 cycler==0.10.0
 Cython==0.27.3
