@@ -189,7 +189,7 @@ pycurl==7.43.0
 pydocstyle==2.0.0
 pyDOE2==1.1.1
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.3.1
 pylint==1.7.4
 pyodbc==4.0.17
