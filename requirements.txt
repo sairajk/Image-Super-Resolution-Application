@@ -214,7 +214,7 @@ requests-mock==1.5.2
 requests-toolbelt==0.8.0
 rope==0.10.5
 rply==0.7.6
-rsa==3.4.2
+rsa==4.7
 ruamel-yaml==0.11.14
 s3transfer==0.1.13
 scikit-image==0.14.0
