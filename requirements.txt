@@ -153,7 +153,7 @@ numpy==1.14.1
 numpydoc==0.8.0
 oauth2client==3.0.0
 olefile==0.44
-opencv-contrib-python==3.4.0.12
+opencv-contrib-python==4.2.0.32
 openmdao==2.4.0
 openpyxl==2.4.8
 pandas==0.22.0
