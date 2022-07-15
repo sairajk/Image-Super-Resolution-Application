@@ -46,7 +46,7 @@ dask==0.17.1
 decorator==4.1.2
 dill==0.2.7.1
 distlib==0.2.5
-distributed==1.21.2
+distributed==2021.10.0
 docutils==0.14
 entrypoints==0.2.3
 et-xmlfile==1.0.1
